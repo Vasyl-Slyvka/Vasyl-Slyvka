@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vasyl 👋
 
-<!--
-**Vasyl-Slyvka/Vasyl-Slyvka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python developer and an Intelligent Systems student at the Technical University of Košice (TUKE).
 
-Here are some ideas to get you started:
+I build AI-powered tools, automation, and small software systems with an emphasis on clear structure, testing, and controlled behavior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+### [LUNA Local Coding Agent](https://github.com/Vasyl-Slyvka/LUNA-local-coding-agent)
+
+A local-first Python coding-agent prototype powered by Ollama.
+
+- Implements a deterministic plan → generate → review → run → repair workflow
+- Stores resumable task state and validates generated Python before writing it
+- Keeps generated-code execution disabled until the user explicitly opts in
+- Includes workspace path protection, time and output limits, and typed errors
+- Covered by 41 unit tests and CI across Python 3.10–3.13
+
+## Current focus
+
+- Python development and automation
+- Integrating AI models into practical applications
+- Agent workflows, state management, and tool boundaries
+- Testing, GitHub Actions, and maintainable project structure
+
+## Tools and technologies
+
+`Python` · `C` · `C++` · `Git` · `GitHub Actions` · `Linux` · `Ollama`
+
+## Education
+
+Bachelor's student in Intelligent Systems at the Faculty of Electrical Engineering and Informatics, TUKE.
+
+## Availability
+
+Open to Python development, automation, and AI integration projects.
