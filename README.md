@@ -1,31 +1,48 @@
 # Hi, I'm Vasyl 👋
 
-I'm a Python developer and an Intelligent Systems student at the Technical University of Košice (TUKE).
+I'm a Python and C/C++ developer and an Intelligent Systems student at the Technical University of Košice (TUKE).
 
-I build AI-powered tools, automation, and small software systems with an emphasis on clear structure, testing, and controlled behavior.
+I build tested software across AI integration, automation, data analysis, simulations, embedded systems, and terminal applications. I focus on clear architecture, deterministic behavior, and maintainable code.
 
-## Featured project
+## Selected projects
 
-### [LUNA Local Coding Agent](https://github.com/Vasyl-Slyvka/LUNA-local-coding-agent)
+### AI, machine learning, and data
 
-A local-first Python coding-agent prototype powered by Ollama.
+| Project | What it demonstrates |
+| --- | --- |
+| [LUNA Local Coding Agent](https://github.com/Vasyl-Slyvka/LUNA-local-coding-agent) | Local-first coding-agent prototype with planning, validation, self-repair, resumable state, and controlled execution. |
+| [Iris Classification Workbench](https://github.com/Vasyl-Slyvka/iris-classification-workbench) | Reproducible ML pipelines, cross-validation, hyperparameter tuning, and model diagnostics. |
+| [AI Evaluation Lab](https://github.com/Vasyl-Slyvka/ai-evaluation-lab) | Deterministic simulation of AI-evaluation scheduling, expert allocation, and selection strategies. |
+| [Marathon Performance Analyzer](https://github.com/Vasyl-Slyvka/marathon-performance-analyzer) | Typed data-analysis CLI for rankings, split comparisons, pacing insights, and reports. |
 
-- Implements a deterministic plan → generate → review → run → repair workflow
-- Stores resumable task state and validates generated Python before writing it
-- Keeps generated-code execution disabled until the user explicitly opts in
-- Includes workspace path protection, time and output limits, and typed errors
-- Covered by 41 unit tests and CI across Python 3.10–3.13
+### Python tools and simulations
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Aircraft Boarding Simulator](https://github.com/Vasyl-Slyvka/aircraft-boarding-simulator) | Reproducible discrete-time simulation of six boarding strategies and realistic passenger constraints. |
+| [Wordle Solver Lab](https://github.com/Vasyl-Slyvka/wordle-solver-lab) | Entropy, minimax, and frequency strategies with reproducible benchmarks and a CLI. |
+| [TUKE Canteen Menu Explorer](https://github.com/Vasyl-Slyvka/tuke-canteen-menu-explorer) | Resilient web-data extraction, filtering, offline fixtures, and JSON/CSV export. |
+
+### C, C++, and embedded systems
+
+| Project | What it demonstrates |
+| --- | --- |
+| [Arduino Smart Alarm Station](https://github.com/Vasyl-Slyvka/arduino-smart-alarm-station) | Complete Arduino system with RTC, sensors, LCD and IR interaction, EEPROM persistence, alarms, and a finite-state UI. |
+| [C Algorithm Challenges](https://github.com/Vasyl-Slyvka/c-algorithm-challenges) | Tested C11 solvers for geometry, tree structures, streaming arithmetic, and numerical search. |
+| [Terminal Adventure Engine](https://github.com/Vasyl-Slyvka/terminal-adventure-engine) | Modular C engine for rooms, inventory, gated progression, and multiple endings. |
+| [C Terminal Game Suite](https://github.com/Vasyl-Slyvka/c-terminal-game-suite) | Classic terminal games emphasizing low-level programming, reusable game logic, and CLI design. |
+| [Terminal Space Runner](https://github.com/Vasyl-Slyvka/terminal-space-runner) | Real-time C/ncurses arcade game with collision handling, pickups, hazards, and score progression. |
 
 ## Current focus
 
-- Python development and automation
-- Integrating AI models into practical applications
-- Agent workflows, state management, and tool boundaries
-- Testing, GitHub Actions, and maintainable project structure
+- Python and C/C++ software development
+- AI integration, agent workflows, and automation
+- Applied machine learning, simulation, and data analysis
+- Testing, GitHub Actions, and maintainable system design
 
 ## Tools and technologies
 
-`Python` · `C` · `C++` · `Git` · `GitHub Actions` · `Linux` · `Ollama`
+`Python` · `C` · `C++` · `CMake` · `Git` · `GitHub Actions` · `Linux` · `Arduino` · `Ollama` · `scikit-learn`
 
 ## Education
 
@@ -33,4 +50,4 @@ Bachelor's student in Intelligent Systems at the Faculty of Electrical Engineeri
 
 ## Availability
 
-Open to Python development, automation, and AI integration projects.
+Open to Python, C/C++, automation, data analysis, and AI integration projects.
