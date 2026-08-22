@@ -4,7 +4,7 @@ I'm a Python and C/C++ developer and an Intelligent Systems student at the Techn
 
 I build tested software across AI integration, automation, data analysis, simulations, embedded systems, and terminal applications. I focus on clear architecture, deterministic behavior, and maintainable code.
 
-## Selected projects
+## Project portfolio
 
 ### AI, machine learning, and data
 
@@ -15,10 +15,11 @@ I build tested software across AI integration, automation, data analysis, simula
 | [AI Evaluation Lab](https://github.com/Vasyl-Slyvka/ai-evaluation-lab) | Deterministic simulation of AI-evaluation scheduling, expert allocation, and selection strategies. |
 | [Marathon Performance Analyzer](https://github.com/Vasyl-Slyvka/marathon-performance-analyzer) | Typed data-analysis CLI for rankings, split comparisons, pacing insights, and reports. |
 
-### Python tools and simulations
+### Python architecture, automation, and simulations
 
 | Project | What it demonstrates |
 | --- | --- |
+| [Python Design Patterns Lab](https://github.com/Vasyl-Slyvka/python-design-patterns-lab) | Tested implementations of 12 design patterns plus a stateful Tic-Tac-Toe model, with type hints and CI. |
 | [Aircraft Boarding Simulator](https://github.com/Vasyl-Slyvka/aircraft-boarding-simulator) | Reproducible discrete-time simulation of six boarding strategies and realistic passenger constraints. |
 | [Wordle Solver Lab](https://github.com/Vasyl-Slyvka/wordle-solver-lab) | Entropy, minimax, and frequency strategies with reproducible benchmarks and a CLI. |
 | [TUKE Canteen Menu Explorer](https://github.com/Vasyl-Slyvka/tuke-canteen-menu-explorer) | Resilient web-data extraction, filtering, offline fixtures, and JSON/CSV export. |
@@ -35,14 +36,15 @@ I build tested software across AI integration, automation, data analysis, simula
 
 ## Current focus
 
-- Python and C/C++ software development
 - AI integration, agent workflows, and automation
-- Applied machine learning, simulation, and data analysis
-- Testing, GitHub Actions, and maintainable system design
+- Python architecture, object-oriented design, and simulation
+- Applied machine learning and data analysis
+- C/C++ development and embedded systems
+- Automated testing, GitHub Actions, and maintainable system design
 
 ## Tools and technologies
 
-`Python` · `C` · `C++` · `CMake` · `Git` · `GitHub Actions` · `Linux` · `Arduino` · `Ollama` · `scikit-learn`
+`Python` · `C` · `C++` · `CMake` · `Git` · `GitHub Actions` · `Linux` · `Arduino` · `Ollama` · `scikit-learn` · `ncurses`
 
 ## Education
 
