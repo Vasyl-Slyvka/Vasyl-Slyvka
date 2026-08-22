@@ -48,7 +48,7 @@ I build tested software across AI integration, automation, data analysis, simula
 
 ## Education
 
-Bachelor's student in Intelligent Systems at the Faculty of Electrical Engineering and Informatics, TUKE.
+Second-year Bachelor's student in Intelligent Systems at the Faculty of Electrical Engineering and Informatics, TUKE.
 
 ## Availability
 
