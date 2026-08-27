@@ -34,6 +34,12 @@ I build tested software across AI integration, automation, data analysis, simula
 | [C Terminal Game Suite](https://github.com/Vasyl-Slyvka/c-terminal-game-suite) | Classic terminal games emphasizing low-level programming, reusable game logic, and CLI design. |
 | [Terminal Space Runner](https://github.com/Vasyl-Slyvka/terminal-space-runner) | Real-time C/ncurses arcade game with collision handling, pickups, hazards, and score progression. |
 
+### Private project in development
+
+| Project | Public summary |
+| --- | --- |
+| **NODREN AI OS** · *Private repository* | Personal local-cloud AI platform for orchestrating models, modular agents, memory, tools, and controlled execution. Architecture and Phase 0 repository bootstrap are in progress; source code and internal documentation remain private. |
+
 ## Current focus
 
 - AI integration, agent workflows, and automation
