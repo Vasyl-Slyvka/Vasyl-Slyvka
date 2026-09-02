@@ -1,61 +1,104 @@
-# Hi, I'm Vasyl 👋
+<div align="center">
 
-I'm a Python and C/C++ developer and an Intelligent Systems student at the Technical University of Košice (TUKE).
+# Hi, I'm Vasyl Slyvka 👋
 
-I build tested software across AI integration, automation, data analysis, simulations, embedded systems, and terminal applications. I focus on clear architecture, deterministic behavior, and maintainable code.
+### Python Developer · AI Integration · Automation · Intelligent Systems
 
-## Project portfolio
+Second-year Intelligent Systems student at the Technical University of Košice (TUKE),  
+building tested software across AI, automation, data, simulation, and embedded systems.
 
-### AI, machine learning, and data
+[![Upwork](https://img.shields.io/badge/Available_on_Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~014d5099dd70bbd6e9)
 
-| Project | What it demonstrates |
-| --- | --- |
-| [LUNA Local Coding Agent](https://github.com/Vasyl-Slyvka/LUNA-local-coding-agent) | Local-first coding-agent prototype with planning, validation, self-repair, resumable state, and controlled execution. |
-| [Iris Classification Workbench](https://github.com/Vasyl-Slyvka/iris-classification-workbench) | Reproducible ML pipelines, cross-validation, hyperparameter tuning, and model diagnostics. |
-| [AI Evaluation Lab](https://github.com/Vasyl-Slyvka/ai-evaluation-lab) | Deterministic simulation of AI-evaluation scheduling, expert allocation, and selection strategies. |
-| [Marathon Performance Analyzer](https://github.com/Vasyl-Slyvka/marathon-performance-analyzer) | Typed data-analysis CLI for rankings, split comparisons, pacing insights, and reports. |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-### Python architecture, automation, and simulations
+</div>
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Python Design Patterns Lab](https://github.com/Vasyl-Slyvka/python-design-patterns-lab) | Tested implementations of 12 design patterns plus a stateful Tic-Tac-Toe model, with type hints and CI. |
-| [Aircraft Boarding Simulator](https://github.com/Vasyl-Slyvka/aircraft-boarding-simulator) | Reproducible discrete-time simulation of six boarding strategies and realistic passenger constraints. |
-| [Wordle Solver Lab](https://github.com/Vasyl-Slyvka/wordle-solver-lab) | Entropy, minimax, and frequency strategies with reproducible benchmarks and a CLI. |
-| [TUKE Canteen Menu Explorer](https://github.com/Vasyl-Slyvka/tuke-canteen-menu-explorer) | Resilient web-data extraction, filtering, offline fixtures, and JSON/CSV export. |
+---
 
-### C, C++, and embedded systems
+## 🚀 Featured Projects
 
-| Project | What it demonstrates |
-| --- | --- |
-| [Arduino Smart Alarm Station](https://github.com/Vasyl-Slyvka/arduino-smart-alarm-station) | Complete Arduino system with RTC, sensors, LCD and IR interaction, EEPROM persistence, alarms, and a finite-state UI. |
-| [C Algorithm Challenges](https://github.com/Vasyl-Slyvka/c-algorithm-challenges) | Tested C11 solvers for geometry, tree structures, streaming arithmetic, and numerical search. |
-| [Terminal Adventure Engine](https://github.com/Vasyl-Slyvka/terminal-adventure-engine) | Modular C engine for rooms, inventory, gated progression, and multiple endings. |
-| [C Terminal Game Suite](https://github.com/Vasyl-Slyvka/c-terminal-game-suite) | Classic terminal games emphasizing low-level programming, reusable game logic, and CLI design. |
-| [Terminal Space Runner](https://github.com/Vasyl-Slyvka/terminal-space-runner) | Real-time C/ncurses arcade game with collision handling, pickups, hazards, and score progression. |
+### 🤖 [LUNA — Local Coding Agent](https://github.com/Vasyl-Slyvka/LUNA-local-coding-agent)
 
-### Private project in development
+Local-first Python coding-agent prototype powered by Ollama. It plans tasks, generates and syntax-checks a Python file, saves resumable state, and repairs failures within a bounded retry loop. Generated code is never executed by default.
 
-| Project | Public summary |
-| --- | --- |
-| **NODREN AI OS** · *Private repository* | Personal local-cloud AI platform for orchestrating models, modular agents, memory, tools, and controlled execution. Architecture and Phase 0 repository bootstrap are in progress; source code and internal documentation remain private. |
+`Python` · `Ollama` · `AI Agents` · `Automation` · `Testing`
 
-## Current focus
+### 🧠 [Iris Classification Workbench](https://github.com/Vasyl-Slyvka/iris-classification-workbench)
 
-- AI integration, agent workflows, and automation
-- Python architecture, object-oriented design, and simulation
-- Applied machine learning and data analysis
-- C/C++ development and embedded systems
-- Automated testing, GitHub Actions, and maintainable system design
+Reproducible machine-learning workflow with schema validation, leakage-safe pipelines, repeated stratified cross-validation, hyperparameter tuning, and deterministic reports.
 
-## Tools and technologies
+`Python` · `scikit-learn` · `Machine Learning` · `Data Analysis` · `Testing`
 
-`Python` · `C` · `C++` · `CMake` · `Git` · `GitHub Actions` · `Linux` · `Arduino` · `Ollama` · `scikit-learn` · `ncurses`
+### ✈️ [Aircraft Boarding Simulator](https://github.com/Vasyl-Slyvka/aircraft-boarding-simulator)
 
-## Education
+Reproducible discrete-time simulator comparing six aircraft boarding strategies under aisle congestion, baggage delays, and seat interference.
 
-Second-year Bachelor's student in Intelligent Systems at the Faculty of Electrical Engineering and Informatics, TUKE.
+`Python` · `Simulation` · `Statistics` · `Data Analysis` · `Testing`
 
-## Availability
+### 🔧 [Arduino Smart Alarm Station](https://github.com/Vasyl-Slyvka/arduino-smart-alarm-station)
 
-Open to Python, C/C++, automation, data analysis, and AI integration projects.
+Embedded alarm system integrating an RTC, sensors, LCD and IR interaction, EEPROM persistence, alarms, and a finite-state user interface.
+
+`C++` · `Arduino` · `Embedded Systems` · `Finite-State Design`
+
+---
+
+## 🧰 More Projects
+
+### Python, AI, and Data
+
+- [Marathon Performance Analyzer](https://github.com/Vasyl-Slyvka/marathon-performance-analyzer) — typed CLI for rankings, pacing analysis, and reports
+- [AI Evaluation Lab](https://github.com/Vasyl-Slyvka/ai-evaluation-lab) — deterministic simulation of evaluation scheduling and selection strategies
+- [Wordle Solver Lab](https://github.com/Vasyl-Slyvka/wordle-solver-lab) — entropy, minimax, and frequency strategies with reproducible benchmarks
+- [TUKE Canteen Menu Explorer](https://github.com/Vasyl-Slyvka/tuke-canteen-menu-explorer) — resilient web-data extraction, filtering, and JSON/CSV export
+- [Python Design Patterns Lab](https://github.com/Vasyl-Slyvka/python-design-patterns-lab) — tested implementations of design patterns with type hints and CI
+
+### C, C++, and Systems
+
+- [Terminal Space Runner](https://github.com/Vasyl-Slyvka/terminal-space-runner) — real-time C/ncurses arcade game
+- [Terminal Adventure Engine](https://github.com/Vasyl-Slyvka/terminal-adventure-engine) — modular C engine with inventory and gated progression
+- [C Terminal Game Suite](https://github.com/Vasyl-Slyvka/c-terminal-game-suite) — reusable terminal game logic and CLI design
+- [C Algorithm Challenges](https://github.com/Vasyl-Slyvka/c-algorithm-challenges) — tested C11 solutions for algorithmic and numerical problems
+
+---
+
+## 🧩 NODREN AI OS
+
+**Private project in development**
+
+Personal local-cloud AI platform for orchestrating models, modular agents, memory, tools, and controlled execution.
+
+Current stage: architecture → repository foundation → core implementation.
+
+---
+
+## 🎯 Current Focus
+
+- AI integration and agent workflows
+- Python automation and data processing
+- Applied machine learning and reproducible evaluation
+- Software architecture, testing, and CI
+- C/C++ and embedded systems
+
+---
+
+## 🎓 Education
+
+**Technical University of Košice — Faculty of Electrical Engineering and Informatics**
+
+Bachelor's student in Intelligent Systems · 2nd year
+
+---
+
+## 📬 Open to Work
+
+Available for well-scoped freelance projects involving **Python scripting, automation, data processing, AI integration, and C/C++**.
+
+[View my Upwork profile →](https://www.upwork.com/freelancers/~014d5099dd70bbd6e9)
