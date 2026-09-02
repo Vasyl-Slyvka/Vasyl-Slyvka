@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Vasyl Slyvka 👋
+# Hi, I'm Vasyl 👋
 
 ### Python Developer · AI Integration · Automation · Intelligent Systems
 
